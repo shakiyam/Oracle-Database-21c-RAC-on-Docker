@@ -1,0 +1,5 @@
+# shared block storage
+DEVICE=/dev/oracleoci/oraclevdb  
+# Oracle Container Registry username and password
+REGISTRY_USERNAME=xxxxxxxx@xxxxxx.xxx
+REGISTRY_PASSWORD='xxxxxxxx'
